@@ -5,3 +5,5 @@ django-redis==4.12.1
 # pymemcache
 pylibmc
 pika
+uwsgi
+supervisor
