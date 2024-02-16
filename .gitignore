@@ -1,1 +1,3 @@
-mysite/mysite/settings_local.py
+mysite/settings_local.py
+*.pyc
+mysite/db.sqlite3
