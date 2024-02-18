@@ -7,3 +7,4 @@ pylibmc
 pika
 uwsgi
 supervisor
+celery
